@@ -12,7 +12,7 @@ FindYourFashion is a full-stack e-commerce web application built using PHP and M
 
 ## Core Features
 - CRUD operations for product management
-- Categorized browsing (Men / Women / Winter Arrivals / Accessorie)
+- Categorized browsing (Men / Women / Winter Arrivals / Accessories)
 - Structured relational database schema
 - Feedback submission system with server-side validation
 - Custom error handling pages
